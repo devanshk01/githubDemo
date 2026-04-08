@@ -6,3 +6,10 @@ My shopping List:
 4. Mango
 5. Grapes
 6. Avacado
+
+Vegetables:
+
+1. Potato
+2. Onion
+3. Capsicum
+4. Tomato
