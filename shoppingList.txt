@@ -6,3 +6,9 @@ My shopping List:
 4. Mango
 5. Grapes
 6. Avacado
+
+Other Items:
+
+1. A4 size Books
+2. Pens
+3. Pencils
